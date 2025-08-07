@@ -11,7 +11,7 @@
     {
         "name": "wan_wsigo",
         "uniques": [
-            "[-100]% [Production] [in all cities]",
+            "Nullifies [Production] [in all cities]",
             "Unbuildable <hidden from users>",
             "Unsellable <hidden from users>",
             "Destroyed when the city is captured <hidden from users>",
