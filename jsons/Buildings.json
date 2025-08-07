@@ -1,9 +1,29 @@
 [
     {
         "name": "wsigo",
-        "uniqueTo": "America",
         "uniques": [
-            "Only available <for [AI player] Civilizations> <hidden from users>",
+            "Unbuildable <hidden from users>",
+            "Unsellable <hidden from users>",
+            "Destroyed when the city is captured <hidden from users>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "wan_wsigo",
+        "uniques": [
+            "[-100%]% [Production] [in all cities]",
+            "Unbuildable <hidden from users>",
+            "Unsellable <hidden from users>",
+            "Destroyed when the city is captured <hidden from users>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Weaken America",
+        "uniques": [
+            "Only available <for [Human player] Civilizations> <hidden from users>",
+            "Only available <if [wsigo] is constructed by anybody> <hidden from users>",
+            "Can be purchased for [0] [Gold] [in capital]",
             "Unbuildable <hidden from users>",
             "Unsellable <hidden from users>",
             "Destroyed when the city is captured <hidden from users>",
