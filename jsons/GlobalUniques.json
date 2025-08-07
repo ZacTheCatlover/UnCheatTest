@@ -1,6 +1,7 @@
 {
     "uniques": [
         "Gain a free [wsigo] [in all cities] <for [America] Civilizations> <for [AI player] Civilizations> <upon founding a city> <upon conquering a city>",
-        "Gain a free [wan_wsigo] [in capital] <for [America] Civilizations> <for [AI player] Civilizations> <upon turn start> <if [Weaken America] is constructed by anybody>"
+        "Gain a free [wan_wsigo] [in capital] <for [America] Civilizations> <for [AI player] Civilizations> <upon turn start> <if [(OFF) Weaken America] is constructed by anybody>",
+        "Remove [wan_wsigo] [in capital] <upon turn start> <if [(OFF) Weaken America] is not constructed by anybody>"
     ]
 }
