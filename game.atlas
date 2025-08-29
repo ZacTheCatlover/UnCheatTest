@@ -18,6 +18,55 @@ BuildingIcons/-100% Everything
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/-20% Everything
+  rotate: false
+  xy: 190, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/-40% Everything
+  rotate: false
+  xy: 190, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/-60% Everything
+  rotate: false
+  xy: 190, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/-80% Everything
+  rotate: false
+  xy: 190, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/20% Everything
+  rotate: false
+  xy: 190, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/40% Everything
+  rotate: false
+  xy: 190, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/60% Everything
+  rotate: false
+  xy: 190, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/(UC) Close City Passives
   rotate: false
   xy: 298, 82
